@@ -34,6 +34,10 @@ article{
   margin: 0 auto;
 }
 
+.recipe-image {
+  max-width: 300px;
+}
+
 /* ========== typography ========== */
 h1{
   margin: 0 0 10px;
@@ -103,7 +107,7 @@ section.ingredients li.sub-ingredients > ul li{
 
 section.ingredients li.sub-ingredients{
   margin-top: 10px;
-  font-weight: 600; 
+  font-weight: 600;
 }
 
 /* ========== instructions (numbered steps) ========== */
